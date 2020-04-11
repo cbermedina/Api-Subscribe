@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "elUdoNljYe3mjziTzubUuhJtC0U9AjABZnuolGgUWflCJFVus5bSjdf4kTZTs3uKFrlDg32zR2ATbH/zcECBVQ==",
+  "success": true,
+  "projectFilePath": "Z:\\GitHub\\Api-Subscribe\\TestRabbit\\TestRabbit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cupegui\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\cupegui\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512",
+    "C:\\Users\\cupegui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
